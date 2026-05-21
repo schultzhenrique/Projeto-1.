@@ -13,5 +13,5 @@ body{
 
 .cabecalho{
   background-color: red;
-
+display: flex;
 }
