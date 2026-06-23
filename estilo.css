@@ -44,7 +44,7 @@ main{
   transform-style: preserve-3d; 
 }
 
-.cartao:hover, .cartao-interno{
+.cartao:hover .cartao-interno{
 transform: rotateY(180deg);
 }
 .cartao-verso{
